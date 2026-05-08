@@ -1,0 +1,60 @@
+# ==============================
+# SemanticPDF AI Requirements
+# ==============================
+
+# Runtime
+Node.js
+npm
+
+# Backend Framework
+Express.js
+
+# Middleware
+cors
+dotenv
+multer
+
+# PDF Processing
+pdf-parse
+
+# AI & Embeddings
+Google Gemini API
+@google/generative-ai
+
+# LangChain
+langchain
+@langchain/textsplitters
+
+# Vector Database
+Pinecone
+@pinecone-database/pinecone
+
+# Development
+nodemon
+
+# Frontend
+React.js
+Vite
+Axios
+Tailwind CSS
+React Router DOM
+
+# AI Architecture
+RAG (Retrieval-Augmented Generation)
+Semantic Search
+Vector Embeddings
+Chunking Pipeline
+
+# Deployment (Future)
+Render
+Railway
+Vercel
+
+# Optional Future Features
+JWT Authentication
+MongoDB
+Cloudinary
+Chat History
+Streaming Responses
+OCR
+Multi-PDF Support
